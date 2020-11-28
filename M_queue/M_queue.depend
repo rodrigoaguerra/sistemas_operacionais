@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1436824599 source:/home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/m_queue.c
+	"pingpong.h"
+
+1436822628 /home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1436481375 /home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/queue.h
+
+1436824854 source:/home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/dispatcher.c
+	"pingpong.h"
+
+1436564417 source:/home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/pingpong-mqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/pingpong.h
+	"datatypes.h"
+
+1436824839 source:/home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/pingpong.c
+	"pingpong.h"
+
+1436481374 source:/home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1436813456 source:/home/rodrigo/Área de Trabalho/Projetos S.O/M_queue/semaphore.c
+	"pingpong.h"
+

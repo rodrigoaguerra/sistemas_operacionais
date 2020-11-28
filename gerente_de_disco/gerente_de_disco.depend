@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1436834584 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/dispatcher.c
+	"datatypes.h"
+
+1437281026 /home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<math.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1436481375 /home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/queue.h
+
+1437081630 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/harddisk.c
+	<signal.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"harddisk.h"
+
+1437081632 /home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/harddisk.h
+
+1437017524 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/m_queue.c
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/pingpong.h
+	"datatypes.h"
+
+1437161831 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/pingpong-disco.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+	"diskdriver.h"
+
+1437281117 /home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/diskdriver.h
+	"pingpong.h"
+
+1437327624 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/pingpong.c
+	"datatypes.h"
+
+1436481374 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1436847763 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/semaphore.c
+	"datatypes.h"
+
+1437327569 source:/home/rodrigo/Área de Trabalho/Projetos S.O/gerente_de_disco/io.c
+	"diskdriver.h"
+	"harddisk.h"
+

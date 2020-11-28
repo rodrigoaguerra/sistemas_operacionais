@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1432297191 source:/home/rodrigo/Área de Trabalho/preempt/dispatcher.c
+	"datatypes.h"
+
+1432244060 /home/rodrigo/Área de Trabalho/preempt/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1431058565 /home/rodrigo/Área de Trabalho/preempt/queue.h
+
+1429252420 /home/rodrigo/Área de Trabalho/preempt/pingpong.h
+	"datatypes.h"
+
+1431878177 source:/home/rodrigo/Área de Trabalho/preempt/pingpong-preempcao.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1431664153 source:/home/rodrigo/Área de Trabalho/preempt/preempt.c
+	"datatypes.h"
+
+1431878628 source:/home/rodrigo/Área de Trabalho/preempt/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1432297237 source:/home/rodrigo/Área de Trabalho/preempt/pingpong.c
+	"datatypes.h"
+
+1432177234 source:/home/rodrigo/Área de Trabalho/preempt/pingpong-contab.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1432256371 source:/home/rodrigo/Área de Trabalho/preempt/pingpong-contab-prio.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1432297191 source:/home/rodrigo/Área de Trabalho/Projetos S.O/preempt/dispatcher.c
+	"datatypes.h"
+
+1432244060 /home/rodrigo/Área de Trabalho/Projetos S.O/preempt/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1431058565 /home/rodrigo/Área de Trabalho/Projetos S.O/preempt/queue.h
+
+1432177234 source:/home/rodrigo/Área de Trabalho/Projetos S.O/preempt/pingpong-contab.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/preempt/pingpong.h
+	"datatypes.h"
+
+1431878628 source:/home/rodrigo/Área de Trabalho/Projetos S.O/preempt/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1432745326 source:/home/rodrigo/Área de Trabalho/Projetos S.O/preempt/pingpong.c
+	"datatypes.h"
+

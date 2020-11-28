@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1436488464 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/dispatcher.c
+	"datatypes.h"
+
+1436490695 /home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1436481375 /home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/queue.h
+
+1435213468 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/pingpong-semaphore.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/pingpong.h
+	"datatypes.h"
+
+1436490852 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/pingpong.c
+	"datatypes.h"
+
+1436481374 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1436482270 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/semaphore.c
+	"datatypes.h"
+
+1435955582 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/pingpong-racecond.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1433640094 source:/home/rodrigo/Área de Trabalho/Projetos S.O/semaphore/pingpong-join.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+

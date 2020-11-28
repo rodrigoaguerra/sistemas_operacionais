@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1432297191 source:/home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/dispatcher.c
+	"datatypes.h"
+
+1434056234 /home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1431058565 /home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/queue.h
+
+1433640094 source:/home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/pingpong-join.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/pingpong.h
+	"datatypes.h"
+
+1434057235 source:/home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1434112914 source:/home/rodrigo/Área de Trabalho/Projetos S.O/Operador Join/pingpong.c
+	"datatypes.h"
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1437013173 source:/home/allanskau/Área de Trabalho/UTFPR/SO/P12-fila_msg/P12-fila_msg/pingpong-mqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"pingpong.h"
+
+1429706604 /home/allanskau/Área de Trabalho/UTFPR/SO/P12-fila_msg/P12-fila_msg/pingpong.h
+	"datatypes.h"
+
+1437011893 /home/allanskau/Área de Trabalho/UTFPR/SO/P12-fila_msg/P12-fila_msg/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"pingpong.h"
+	<signal.h>
+	<sys/time.h>
+	<string.h>
+
+1437013028 source:/home/allanskau/Área de Trabalho/UTFPR/SO/P12-fila_msg/P12-fila_msg/pingpong.c
+	"datatypes.h"
+
+1437013173 source:/home/rodrigo/Área de Trabalho/Projetos S.O/P12-fila_msg/pingpong-mqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"pingpong.h"
+
+1429706604 /home/rodrigo/Área de Trabalho/Projetos S.O/P12-fila_msg/pingpong.h
+	"datatypes.h"
+
+1437011893 /home/rodrigo/Área de Trabalho/Projetos S.O/P12-fila_msg/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"pingpong.h"
+	<signal.h>
+	<sys/time.h>
+	<string.h>
+
+1437013028 source:/home/rodrigo/Área de Trabalho/Projetos S.O/P12-fila_msg/pingpong.c
+	"datatypes.h"
+

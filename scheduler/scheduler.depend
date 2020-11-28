@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1431474170 source:/home/rodrigo/Área de Trabalho/scheduler/pingpong-scheduler.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/scheduler/pingpong.h
+	"datatypes.h"
+
+1431481823 /home/rodrigo/Área de Trabalho/scheduler/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"queue.h"
+	"pingpong.h"
+
+1431058565 /home/rodrigo/Área de Trabalho/scheduler/queue.h
+
+1431492235 source:/home/rodrigo/Área de Trabalho/scheduler/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1431496599 source:/home/rodrigo/Área de Trabalho/scheduler/dispatcher.c
+	"datatypes.h"
+
+1431494859 source:/home/rodrigo/Área de Trabalho/scheduler/pingpong.c
+	"datatypes.h"
+

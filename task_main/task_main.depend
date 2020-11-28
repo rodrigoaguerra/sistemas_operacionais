@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1432297191 source:/home/rodrigo/Área de Trabalho/Projetos S.O/task_main/dispatcher.c
+	"datatypes.h"
+
+1432244060 /home/rodrigo/Área de Trabalho/Projetos S.O/task_main/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1431058565 /home/rodrigo/Área de Trabalho/Projetos S.O/task_main/queue.h
+
+1432743339 source:/home/rodrigo/Área de Trabalho/Projetos S.O/task_main/pingpong-maintask.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/task_main/pingpong.h
+	"datatypes.h"
+
+1431878628 source:/home/rodrigo/Área de Trabalho/Projetos S.O/task_main/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1432747724 source:/home/rodrigo/Área de Trabalho/Projetos S.O/task_main/pingpong.c
+	"datatypes.h"
+

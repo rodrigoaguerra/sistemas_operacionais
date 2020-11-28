@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1431052403 source:/media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/pingpong-dispatcher.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/pingpong.h
+	"datatypes.h"
+
+1431059320 /media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"queue.h"
+
+1431059349 source:/media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/pingpong.c
+	"datatypes.h"
+
+1431058565 /media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/queue.h
+
+1431059113 source:/media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/dispatcher.c
+	"datatypes.h"
+
+1429072186 source:/media/rodrigo/BCE2F83CE2F7F90A/OneDrive/UTFPR/Sistemas Operacionais/Projetos/dispatcher/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1431491811 source:/home/rodrigo/Área de Trabalho/dispatcher/dispatcher.c
+	"datatypes.h"
+
+1431323278 /home/rodrigo/Área de Trabalho/dispatcher/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"queue.h"
+	"pingpong.h"
+
+1431058565 /home/rodrigo/Área de Trabalho/dispatcher/queue.h
+
+1431052403 source:/home/rodrigo/Área de Trabalho/dispatcher/pingpong-dispatcher.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/dispatcher/pingpong.h
+	"datatypes.h"
+
+1431491722 source:/home/rodrigo/Área de Trabalho/dispatcher/pingpong.c
+	"datatypes.h"
+
+1431489250 source:/home/rodrigo/Área de Trabalho/dispatcher/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+

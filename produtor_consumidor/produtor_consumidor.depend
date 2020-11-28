@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1436479058 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1429252420 /home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/pingpong.h
+	"datatypes.h"
+
+1436490695 /home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1436481375 /home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/queue.h
+
+1436496808 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/dispatcher.c
+	"datatypes.h"
+
+1435213468 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/pingpong-semaphore.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1436490866 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/pingpong.c
+	"datatypes.h"
+
+1436481374 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1436482270 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/semaphore.c
+	"datatypes.h"
+
+1435955582 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/pingpong-racecond.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1436531765 source:/home/rodrigo/Área de Trabalho/Projetos S.O/produtor_consumidor/pingpong-prodcons.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
